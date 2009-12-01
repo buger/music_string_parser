@@ -1,0 +1,1 @@
+This library for parsing music titles. It analizes given string and returns music info. Uses Last.fm as search engine.
